@@ -81,3 +81,49 @@ the data you analyzed. Putting them in appealing formats.
 ---Data science Job Roles----
 There are many job roles for data science, since so many companies have data and there is just
 a lot to do.
+
+1. Data scienist. They have to understand the challenges of a business and implement data
+analysis to offer the best solution. Companies hire them to becoming understood through
+data, and to see if there are any patterns that are useful for them.
+For instance they perform predictive analysis and
+should know how to interpret trends and use tools to do so. Knowing languages like R,
+MATLAB, Python, SQL, a having a good degree in mathematics.
+
+2. Data analyst. These people know data querying languages really well. Their job is to
+process and visualize large data. They perform queries on databases. One of their most
+important skills is optimization. They have to create and modify algorithms that are used
+to pull data from extremely large databases without corrupting the data. Certification
+in languages like python, SQL, SAS, and the like can boost your application. Also, good
+problem solving qualities.
+
+3. Data architect. These guys create the blueprints for data management so that the databases
+that their company uses can be protected and safe. They also ensure that their engineers have
+the best tools and systems to work with. To become one, you need expertise in data
+warehousing and data modeling. Well-versed in Hive, pig and spark (I don't know what
+the lady said).
+
+4. Data engineers. Building and testing scalable data ecosystems. Updating existing systems
+with newer or upgraded versions and also improving the efficiency of databases. Hive, noSQL,
+Ruby, Java, C++, and Matlab as well as popular data APIs and ETL tools.
+
+5. Statistician. They extract and offer valuable insights about data as well as creating new
+methodlogies for engineers to apply. Be good with math, and have a good knowledge about
+database systems like SQL, and definetly machine learning concepts.
+
+6. Database admininstrator. These people manage all the databases of the compnay and provide
+permissions to the various employees. They also take care of database backups and recoveries.
+These people have skills in database backing up and recovery, data security, data modeling,
+and data design.
+
+7. Business analyst. This person is a little less versed in the realm of databases, but
+they are heavily aware of the actionable steps to take within a business in relation to
+patterns in data. They focus on business growth. They are the link between data scientists
+and the business people. They do data visualization very well.
+
+8. Data & Analytics Manager. This person assigns responsibilities to employees based on
+their expertise. They should know SAS and SQL, and have good management skills. Good social
+skills, leadership skills, and an out-of-the-box thinking attitude. Have a good understanding
+of the different techonologies (languages).
+
+
+---Data science life cycle---
