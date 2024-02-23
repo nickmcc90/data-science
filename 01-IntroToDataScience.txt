@@ -1,0 +1,83 @@
+---Evolution of Technology---
+Back then, technology was primitive and we didn't have a lot of data. We used to
+memorize phone numbers, and use floppy disks. Now, almost everything has data
+and/or is connected to the internet. The evolution of technology has generated
+a lot of data.
+
+IoT (or internet of things) is basically just the networks and devices that all
+contribute to the large amounts of data that are created. It's crazy, but the
+amount of data that's made in a year is in the zettabytes. A zettabyte is a lot
+of data, and it's like 50 zettabytes. With each incoming year, data is only
+going to increase. There is an evergrowing need for data science as time goes
+on.
+
+Social media is a very large contributor to data. People doing things on social
+media and loving it so much really does generate a lot of data.
+
+There are even more things that generate data. Most things are done online now,
+like education, transactions, buying things. Healthcare has data. Banking and
+retail have data.
+
+---Walmart example---
+Let's see how Walmart uses data science to grow their business.
+Walmart generates a lot of data, specifically to understand their customers better.
+If a customer buys pop-tarts, then they are more likely to buy cookies too. 
+
+One example is across all Walmart stores, it is noticed that a particular cookie brand
+is making great sales. However, in two locations, there isn't a sales AT ALL. This is
+investigated and it is found that they don't even have any of those cookies in stock.
+This is then solved, and they prevent any loss of sales due to this stocking issue.
+
+Another example would be if through data science Walmart found out that people really
+liked strawberry pop-tarts right before a hurricane would occur. Correlations like this
+wouldn't be known without something that sifts through data.
+
+Walmart could use social media to gather data about the likes and dislikes of people.
+If people on Facebook really like cake pops and are posting about it, then Walmart would
+increase their stock of it.
+
+
+--What is data science?---
+It is the process of extracting knowledge and insights from data by using scientific
+methods. When a data scientist is provided with a problem, they become investigators
+and try to decode any patterns that they see within data and bring them to the surface
+to increase sales.
+
+In data science, heavy amounts of math will be needed because in order to decode patterns
+in data, you may need to develop a mathematical model and have equations that interpret
+data. It's not just statistics. They use technology to uncover these questions and patterns,
+so they need to be proficient in python, SQL, R, & sass. They are good at business relations,
+as a business could give their dataset to a data scientist and their job would be to uncover
+where things are going wrong, and any good patterns.
+
+---Data science skill set----
+1. Statistics. This is how you will make decisions and understand probabilities of data. 
+
+2. Programming languages. You'll need to know statistical languages like python and database
+querying languages like SQL. Python is loved because of it's packages, you don't have to code
+up some algorithm, you can just download a package and run it.
+
+3. Data extraction and processing. Data can be from multiple sources, like mySQL database or mongo
+database or wherever. The goal is to extract this stuff and put it into one proper place to view it
+and make moves on it.
+
+4. Data wrangling and exploration. This is about cleaning the data. This is about managing when
+data sets have missing, null, or inconsistent values or gaps. Exploration is the creative part
+where the data is ready to look at so you can find patterns and conclusions.
+
+5. Machine learning. This comes in handy when you are working at a company with large amounts
+of data, or the product is data driven like Netflix or google maps. You cannot process these
+large amounts of data without machine learning algorithms. This is a very required skill to 
+becoming a data scientist, because mostly every company has unfathomable amounts of data. You
+will be asked about machine learning algorithms in interviews.
+
+6. Big data processing frameworks. So much data that you can't really process it, so you need
+frameworks like Spark and Hadoop.
+
+7. Data visualization. This is the end product when you need to communicate your findings from
+the data you analyzed. Putting them in appealing formats.
+
+
+---Data science Job Roles----
+There are many job roles for data science, since so many companies have data and there is just
+a lot to do.
