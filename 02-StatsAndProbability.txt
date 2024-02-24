@@ -1,0 +1,51 @@
+----What is Data?---
+There is qualitative and quantitative data. 
+
+Qualitative can be broken up
+into nominal (unordered, like male and female) and ordinal (ordered,
+like good, bad, average). 
+
+Quantitative can be broken up into discrete
+(finite number of measurement, like students in a class) and continuous
+(infinite possibilities, like the weight of a person)
+
+
+---Statistics----
+Population: A collection of things whose properties are to be analyzed.
+Sample: A subset of the population. A well chosen sample will contain
+most of the information about a population parameter.
+
+Sampling is used to draw inferences about the entire population; most times
+it is unreasonable to go out and collect data on the entire population of data.
+
+There is probablity sampling and non-probability sampling, but we are going to get into
+the probablity sampling types.
+
+Random sampling - each member of the population has an equal chance of being selected.
+Systematic sampling - every nth record is chosen from the population. Like chosing
+every other group.
+Stratified sampling - choosing a subset of a population that shares one common
+characteristic. This is like diving a population into male and female, and then
+testing.
+
+--Types of statistics--
+Descriptive statistics: Uses the data to provide descriptions of the population,
+analyzing a population and describing their characteristics.
+
+These are the measures of central tendency(mean, median, mode) and 
+measures of variability(variance, range, sd)
+
+Variance is how much a random variable differs from its expected value.
+
+Inferential statistics: makes predictions about a population based on a sample taken.
+We apply probablity.
+
+
+
+--Information Gain and Entropy--
+Entropy measures the impurity or uncertainity measured in the data.
+Information gain indicates how much 'information' a particular
+feature/variable gives about a final outcome.
+
+Let's see an example.
+<timestamp 1:04:45>

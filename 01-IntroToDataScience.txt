@@ -127,3 +127,19 @@ of the different techonologies (languages).
 
 
 ---Data science life cycle---
+1. The Business requirements. We need to understand the problem at hand and identify
+the objectives of the project. identifying the variables that need to be predicted.
+
+2. The Data Acquistion. This is the next step. This is data mining, which is the process
+of gathering your data from different sources. What data do I need for this project? What's
+the way to store and access all of it?
+
+3. The Data Processing. The data you collected is not formatted and clean. This step is 
+to clean the data and find missing or corrupted data.
+
+4. The Data Exploration. With ready data, we can start the analysis. You can create histograms
+and find patterns. This is where you get creative and solve the business problems.
+
+5. The Modeling. Creating a machine learning model.
+
+6. Deployment. Yep.
