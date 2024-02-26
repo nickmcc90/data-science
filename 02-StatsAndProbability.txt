@@ -10,6 +10,7 @@ Quantitative can be broken up into discrete
 (infinite possibilities, like the weight of a person)
 
 
+
 ---Statistics----
 Population: A collection of things whose properties are to be analyzed.
 Sample: A subset of the population. A well chosen sample will contain
@@ -27,6 +28,8 @@ every other group.
 Stratified sampling - choosing a subset of a population that shares one common
 characteristic. This is like diving a population into male and female, and then
 testing.
+
+
 
 --Types of statistics--
 Descriptive statistics: Uses the data to provide descriptions of the population,
@@ -49,3 +52,51 @@ feature/variable gives about a final outcome.
 
 Let's see an example.
 <timestamp 1:04:45>
+
+They used the example of reasonable weather to play soccer games in. They had variables
+like outlook(sunny, rainy), humidity, and wind. They took one variable and made it the root
+node. So for outlook, this would have three nodes: sunny, rainy, and overcast. For each of
+these nodes, we do all the possible combinations of the other variables with the outlook at
+each node being the only thing that stays constant. The decision to make is whether the conditions
+are suitable to play the game that day, yes or no. 
+
+We say that a variable (like one of the three nodes derived from the outlook) has low entropy
+when the 'no's' compared to 'yes's' are at a minimum. If a particular node has no 'no's', then
+it is a very significant variable to include within a model describing the probability of playing
+a game. So, variables with low entropy are significant.
+
+On the root node, we should have the most significant variable.
+
+What if the data is much larger and it isn't as easy to understand which variable would be the
+most significant? This is were calculating the entropy comes in handy.
+
+Calculating entropy is for the entire data set, the amount of yes's or no's or possible outcomes.
+
+The information gain can be calculated for each individual variable.
+
+I'll describe the image in this folder *02-informationGainExample
+We are subtracting the entropy with the summation portion. The main distrubtion of True and
+False that categorizes this "Windy" attribute is represented by the multipication constant
+that is pulled out of the summation. Inside the summation is the distrubtion of the yes's and
+no's (the overall outcome, which we be common amongst all variables).
+
+It seems like we can first calculate the entropy so that we can get the information gain
+of all the variables present. Then we choose the variable with the highest info gain
+to be our root node in our model.
+
+
+
+
+---Confusion matrix---
+It is a table that is used to describe the performance of a classification model for which
+the true values are known.
+
+It is a 2x2 matrix (in its simplest form) of true positives, true negatives, false positives,
+and false negatives. These terms describe the relationship between when an outcome is predicted
+and then is put up against the actual outcome. So for example, a false positive means we falsely
+predicted a positive outcome, but it is actually negative. As stated above, there are four different
+situations to describe the predictions vs the actual, and we put this in a confusion matrix. I'm assuming
+this is just for simple stuff like problems with only a yes and no outcome.
+
+<Timestamp: 1:21:02. We are about to install the r language in jupyter notebook, but to do that
+we need anaconda prompt, so let's do that when we return 2/25/24.>
