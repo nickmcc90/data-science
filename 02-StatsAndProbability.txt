@@ -100,3 +100,26 @@ this is just for simple stuff like problems with only a yes and no outcome.
 
 <Timestamp: 1:21:02. We are about to install the r language in jupyter notebook, but to do that
 we need anaconda prompt, so let's do that when we return 2/25/24.>
+
+<We downloaded it!!! Time to learn.>
+
+I made some practice runs in a file called ds02.ipynb. We can use R in jupyter lab now.
+
+
+
+
+----Probability-----
+We know what probablity is. 
+
+A probablity density function is a continuous probability distribution on a graph.
+The area underneath the curve is equal to 1, since probability goes up to 100% and nothing over.
+The area between two variables is the probablity of that range of variables happening.
+
+A normal distrubtion (also known as the Gaussian distribution) associates a normal random variable
+like x to a cumulative probability. This graph is where the mean of the data is the highest point on the graph,
+and in the middle of the bell curve, so the points that are farther from the center are less likely to happen.
+The standard deviation determines the height of the graph. So if SD is high, then the curve will be short
+and wide.
+
+<Timestamp: 1:31:30, she's gonna talk about this topic.>
+Central limit theorem. 
